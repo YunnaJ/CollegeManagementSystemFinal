@@ -1,0 +1,26 @@
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.LoginForm.resources
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.StudentForm.resources
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.TeacherForm.resources
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.csproj.GenerateResource.cache
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\bin\Debug\CollegeDB.accdb
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\bin\Debug\CollegeManagementSystem.exe.config
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\bin\Debug\CollegeManagementSystem.exe
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.Properties.Resources.resources
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.exe
+C:\Users\LG\Source\Repos\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.pdb
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\bin\Debug\CollegeDB.accdb
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\bin\Debug\CollegeManagementSystem.exe.config
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\bin\Debug\CollegeManagementSystem.exe
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.csprojAssemblyReference.cache
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.CourseForm2.resources
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.LoginForm.resources
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.Properties.Resources.resources
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.StudentForm.resources
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.TeacherForm.resources
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.csproj.GenerateResource.cache
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.exe
+C:\Users\LG\Downloads\CollegeManagementSystem2 (1)\CollegeManagementSystem2\obj\Debug\CollegeManagementSystem.pdb
